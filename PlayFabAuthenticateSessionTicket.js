@@ -59,3 +59,8 @@ axios.post("https://A2545.playfabapi.com/Server/AuthenticateSessionTicket",
 // TitlePlayerAccountId: 44FA187E9DF2D27D
 // TitlePlayerAccountType: title_player_account
 // TitlePlayerAccountTypeString: title_player_account
+
+// Status: 400
+// Status: Bad Request
+// ErrorMessage: InvalidSessionTicket
+// ErrorCode: 1100
